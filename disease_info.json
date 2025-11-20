@@ -1,0 +1,60 @@
+{
+    "Apple___Apple_scab": "Apple scab is a fungal disease caused by Venturia inaequalis that creates olive-green lesions on leaves and fruit, leading to premature leaf and fruit drop and reduced fruit quality",
+    "Apple___Black_rot": "Apple black rot is a fungal disease caused by Botryosphaeria obtusa that damages fruit, leaves, and branches.",
+    "Apple___Cedar_apple_rust": "Cedar-apple rust is a fungal disease caused by Gymnosporangium juniperi-virginianae that requires both cedar and apple trees to complete its two-year life cycle.",
+    "Apple___healthy": "Healthy apple leaf with no fungal or bacterial infection. Symptoms of disease are absent — smooth green leaf surface.",
+
+    "Blueberry___healthy": "A healthy blueberry leaf with no visible signs of fungal, bacterial, or viral infection. The leaf appears smooth, green, and free from spots or discoloration.",
+
+    "Cherry_(including_sour)___healthy": "A healthy cherry (including sour cherry) leaf with no signs of disease or pest damage. The leaf appears vibrant green, smooth, and free from spots, lesions, or discoloration.",
+    "Cherry_(including_sour)___Powdery_mildew": "Powdery mildew is a common fungal disease of both sweet and sour cherry trees, caused primarily by the fungus Podosphaera clandestina (or Podosphaera cerasi)",
+
+
+    "Corn_(maize)___Cercospora_leaf_spot":"Cercospora leaf spot, also known as gray leaf spot (GLS), is a significant fungal disease in corn (maize) caused by the fungi Cercospora zeae-maydis and Cercospora zeina",
+    "Corn_(maize)___Common_rust":"Corn common rust is a widespread fungal disease caused by the pathogen Puccinia sorghi. It primarily affects the leaves of the corn (maize) plant, with the potential to cause significant yield loss, particularly in sweet corn and seed production fields. ",
+    "Corn_(maize)___Northern_Leaf_Blight":"Northern Leaf Blight (NLB) in corn (maize) is a fungal disease caused by Exserohilum turcicum, characterized by long, cigar-shaped lesions on the leaves.",
+    "Corn_(maize)___healthy": "A healthy corn leaf shows a uniform green color with no spots, streaks, or discoloration. Leaves appear firm and upright with no signs of pests, lesions, or fungal growth.",
+
+    "Grape___Black_rot":"Grape black rot is a serious fungal disease caused by the pathogen Guignardia bidwellii. It affects all green parts of the grapevine, including leaves, shoots, tendrils, and most notably, the fruit, and can lead to complete crop loss in warm, wet seasons if not managed. ",
+    "Grape___Esca_(Black_Measles)":"Grape Esca (also known as Black Measles) is a serious, chronic wood disease of grapevines caused by a complex of several fungal pathogens, including Phaeoacremonium aleophilum and Phaeomoniella chlamydospora. ",
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)":"Grape Leaf Blight (Isariopsis Leaf Spot) is a fungal disease affecting grapevines, primarily caused by the pathogen Isariopsis clavispora (now often referred to by the genus name Pseudocercospora or Cercospora in modern taxonomy)",
+    "Grape___healthy": "A healthy grape leaf is vibrant green with smooth edges and no spots or discoloration. The surface is clean and free from fungal growth, pests, or lesions.",
+
+    "Orange___Haunglongbing_(Citrus_greening)":"Huanglongbing (HLB), commonly known as citrus greening disease, is one of the most destructive and fatal bacterial diseases affecting all types of citrus trees worldwide",
+
+    "Peach___Bacterial_spot": "Peach Bacterial Spot is an economically important disease of peaches and other stone fruit, caused by the bacterium Xanthomonas arboricola pv. pruni. It affects the leaves, twigs, and fruit, and its severity is highly dependent on weather conditions and cultivar susceptibility. ",
+    "Peach___healthy": "A healthy peach leaf is bright green and smooth with no signs of curling, spots, or yellowing. It shows good vigor and is free from fungal or bacterial infections.",
+
+    "Pepper,_bell___Bacterial_spot":"Bacterial spot of bell pepper is a destructive and globally prevalent disease caused by several species of the gram-negative bacterium Xanthomonas. It affects leaves, stems, and fruit, and can lead to significant crop losses, especially in warm, moist environments. ",
+    "Pepper,_bell___healthy": "A healthy bell pepper leaf is vibrant green, smooth, and firm with no dark spots, holes, or curling. The plant shows strong growth and produces shiny, well-formed fruits.",
+
+
+
+
+    "Potato___Early_blight": "Potato Early blight is a common fungal disease that affects potato plants, caused by the pathogen Alternaria solani. It primarily affects the foliage at any growth stage, usually appearing during the tuber bulking stage, and can lead to significant yield loss. ",
+    "Potato___healthy": "A healthy potato plant has lush green leaves, strong stems, and shows no signs of wilting, yellowing, or spotting. Leaves are smooth and uniform in color, indicating proper growth and nutrient balance.",
+    "Potato___Late_blight":"Potato late blight is a destructive disease of potato and tomato plants caused by the oomycete (water mold) pathogen Phytophthora infestans, which was responsible for the historic Irish Potato Famine. It spreads rapidly in cool, moist conditions and can destroy an entire crop in a few days if untreated. ",
+
+    "Raspberry___healthy": "Healthy raspberry plants have vibrant green leaves, firm canes, and produce plump, unblemished berries. There are no signs of leaf spots, discoloration, or wilting.",
+
+    "Soybean___healthy": "A healthy soybean plant has broad green leaves and sturdy stems with no yellowing, spotting, or insect damage. It indicates good nutrient uptake and resistance to pests and diseases.",
+
+    "Squash___Powdery_mildew": "Squash powdery mildew is a very common fungal disease that makes leaves look as though they have been dusted with flour or powdered sugar. The disease is caused by several related fungi, most commonly Golovinomyces cucurbitacearum and Podosphaera xanthii, which are spread by wind-borne spores. ",
+
+
+    "Strawberry___healthy": "Healthy strawberry plants have bright green leaves, white flowers, and firm, red fruits. There are no signs of leaf spots, mold, or wilting on the plant.",
+    "Strawberry___Leaf_scorch":"Strawberry leaf scorch is a fungal disease caused by Diplocarpon earliana that results in purplish to reddish-brown spots on leaves, which can eventually merge to cover the entire leaf, causing it to dry and curl.",
+    
+     "Tomato___Bacterial_spot":"Tomato bacterial spot disease is a devastating disease caused by Xanthomonas bacteria, which results in small, dark, water-soaked spots on leaves and fruit. Symptoms appear as circular or angular lesions on leaves that can turn yellow and lead to defoliation, while fruit spots are initially raised with a water-soaked border and become scabby and pitted as they age",
+    "Tomato___healthy": "Healthy tomato plants have vibrant green leaves, strong stems, and well-formed fruits. There are no yellowing, spots, or mold visible on the leaves or fruit surface.",
+    "Tomato___Late_blight": "Tomato Late Blight is a highly destructive disease of tomato and potato plants caused by the fungus-like water mold organism, Phytophthora infestans. It can destroy an entire tomato plant in 7 to 10 days under favorable conditions (cool and wet weather) and was famously responsible for the Irish potato famine.",
+     "Tomato___Early_blight":"Tomato Early Blight is a highly destructive disease of tomato and potato plants caused by the fungus-like water mold organism, Phytophthora infestans. It can destroy an entire tomato plant in 7 to 10 days under favorable conditions (cool and wet weather) and was famously responsible for the Irish potato famine.",
+    "Tomato___Leaf_Mold":"Tomato leaf mold is a fungal disease that primarily affects tomatoes grown in high-humidity environments like greenhouses. It appears as yellow spots on the upper leaf surface and a velvety, olive-green mold on the underside of leaves. Symptoms also include withered and dead leaves, which can lead to reduced yield if left untreated. ",
+    "Tomato___Septoria_leaf_spot":"Tomato Septoria leaf spot is a common fungal disease caused by the pathogen Septoria lycopersici, which primarily affects tomato leaves and stems. It can lead to significant defoliation, reduced yield, and sunscald of the fruit. ",
+    "Tomato___Spider_mites_Two-spotted_spider_mite":"The term Tomato___Spider_mites Two-spotted_spider_mite refers to an infestation by the two-spotted spider mite (Tetranychus urticae), which is a common pest, not a disease, of tomato plants. ",
+    "Tomato___Target_Spot":"Tomato Target Spot is a common fungal disease that affects tomato plants, leaves, stems, and fruits. It is also known as early blight in some regions, though it can resemble other leaf spot diseases in its early stages. The primary pathogen responsible is the fungus Alternaria linariae (syn. A. tomatophila), and sometimes Corynespora cassiicola is also associated with target spot symptoms in various crops including tomato. ",
+    "Tomato___Tomato_mosaic_virus":"The disease referred to as Tomato___Tomato_mosaic_virus is the Tomato mosaic disease, caused by the Tomato mosaic virus (ToMV). It is a highly contagious viral disease that primarily affects tomato plants and other related species like tobacco, pepper, and eggplant. ",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus":"Tomato Yellow Leaf Curl Virus is a devastating disease that causes stunted growth, yellowing, and curling of tomato leaves. It is caused by a Begomovirus and is transmitted by the silverleaf whitefly. The disease can lead to significant yield losses, and there are no treatments for infected plants, making prevention crucial. "
+    
+  }
+  

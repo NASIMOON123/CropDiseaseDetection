@@ -1,0 +1,197 @@
+{
+    "Apple___Apple_scab": [
+      "Olive-green or brown spots on leaves and fruit.",
+      "Leaves curl and fall prematurely.",
+      "Fruit develops rough, scabby lesions reducing quality."
+    ],
+    "Apple___Black_rot": [
+      "Circular brown spots with dark margins on leaves.",
+      "Fruit shows concentric black rings (‘bull’s-eye’ rot).",
+      "Cankers may form on branches or trunks."
+    ],
+    "Apple___Cedar_apple_rust": [
+      "Bright orange-yellow spots on upper leaf surfaces.",
+      "Gelatinous orange galls form on nearby cedar trees.",
+      "Leads to premature leaf drop and fruit deformity."
+    ],
+    "Apple___healthy": [
+      "Leaf color is uniform green and glossy.",
+      "No visible spots, curling, or discoloration.",
+      "Tree exhibits normal growth and fruiting."
+    ],
+    "Blueberry___healthy": [
+      "Leaves are smooth, bright green, and firm.",
+      "No spotting, curling, or fungal growth present.",
+      "Plant shows vigorous and balanced growth."
+    ],
+    "Cherry_(including_sour)___healthy": [
+      "Leaf is smooth, shiny, and vibrant green.",
+      "No powdery or discolored patches.",
+      "Tree shows strong flowering and fruiting."
+    ],
+    "Cherry_(including_sour)___Powdery_mildew": [
+      "White, powdery fungal growth on upper leaf surface.",
+      "Leaves curl upward and growth becomes stunted.",
+      "Common in dry, warm conditions with poor airflow."
+    ],
+    "Corn_(maize)___Cercospora_leaf_spot": [
+      "Small gray to tan rectangular lesions on leaves.",
+      "Lesions merge, killing large leaf areas.",
+      "Thrives in warm, humid environments."
+    ],
+    "Corn_(maize)___Common_rust": [
+      "Small reddish-brown pustules on both sides of leaves.",
+      "Heavy infection leads to leaf drying and yield loss.",
+      "Favors cool, moist weather conditions."
+    ],
+    "Corn_(maize)___Northern_Leaf_Blight": [
+      "Long, cigar-shaped gray-green lesions on leaves.",
+      "Infected leaves die prematurely.",
+      "Develops rapidly under warm, wet conditions."
+    ],
+    "Corn_(maize)___healthy": [
+      "Leaves appear lush green without spots or lesions.",
+      "No rust pustules or mold growth.",
+      "Plant stands upright and healthy."
+    ],
+    "Grape___Black_rot": [
+      "Small brown leaf spots with black edges.",
+      "Infected berries shrivel and turn hard black.",
+      "Disease spreads rapidly in wet conditions."
+    ],
+    "Grape___Esca_(Black_Measles)": [
+      "Leaves show tiger-striped yellow and brown patterns.",
+      "Dark streaks develop in the wood.",
+      "Berries shrivel and display black spotting."
+    ],
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": [
+      "Irregular dark brown to black lesions on leaves.",
+      "Spots merge causing leaf drying and fall.",
+      "Severe in warm, humid climates."
+    ],
+    "Grape___healthy": [
+      "Leaf surface is smooth, vibrant green, and clean.",
+      "No visible lesions or fungal growth.",
+      "Plant shows vigorous vine development."
+    ],
+    "Orange___Haunglongbing_(Citrus_greening)": [
+      "Mottled yellow blotches on leaves.",
+      "Fruits remain green, small, and misshapen.",
+      "Tree shows twig dieback and reduced vigor."
+    ],
+    "Peach___Bacterial_spot": [
+      "Small water-soaked spots on leaves that darken.",
+      "Fruit develops pitted, cracked lesions.",
+      "Severe infection leads to premature leaf drop."
+    ],
+    "Peach___healthy": [
+      "Leaves are smooth, green, and free of blemishes.",
+      "No curling or yellowing observed.",
+      "Tree grows vigorously with healthy fruit set."
+    ],
+    "Pepper,_bell___Bacterial_spot": [
+      "Small, water-soaked spots that turn brown and scabby.",
+      "Fruit lesions become dark and sunken.",
+      "Thrives in warm, moist environments."
+    ],
+    "Pepper,_bell___healthy": [
+      "Leaves are firm, shiny, and deep green.",
+      "No holes, spots, or deformations.",
+      "Plant displays strong fruiting and growth."
+    ],
+    "Potato___Early_blight": [
+      "Dark brown concentric target-like rings on older leaves.",
+      "Yellowing begins from leaf edges inward.",
+      "Reduces leaf area and tuber yield."
+    ],
+    "Potato___healthy": [
+      "Leaves are bright green, evenly colored, and firm.",
+      "No spotting, yellowing, or mold present.",
+      "Stems upright and well-developed."
+    ],
+    "Potato___Late_blight": [
+      "Water-soaked gray-green patches on leaves.",
+      "White mold appears on undersides in humid weather.",
+      "Rapid foliage collapse and tuber rot occur."
+    ],
+    "Raspberry___healthy": [
+      "Leaves are lush, green, and well-formed.",
+      "No spotting, curling, or discoloration.",
+      "Plant produces firm, healthy fruits."
+    ],
+    "Soybean___healthy": [
+      "Leaves are uniformly green with smooth texture.",
+      "No yellowing, spotting, or pest damage.",
+      "Strong stem and balanced canopy growth."
+    ],
+    "Squash___Powdery_mildew": [
+      "White powdery patches appear on leaf surfaces.",
+      "Leaves yellow, curl, and dry out over time.",
+      "Favored by warm, dry conditions with poor ventilation."
+    ],
+    "Strawberry___healthy": [
+      "Leaves are deep green with no spots or scorch.",
+      "Flowers and fruits are bright and firm.",
+      "Plant shows steady growth and vigor."
+    ],
+    "Strawberry___Leaf_scorch": [
+      "Purple spots appear, turning brown in the center.",
+      "Leaves curl and die under severe infection.",
+      "Reduced plant vigor and fruit production."
+    ],
+    "Tomato___Bacterial_spot": [
+      "Small, dark, water-soaked spots on leaves and fruit.",
+      "Leaves turn yellow and drop early.",
+      "Fruits develop raised, rough scabby spots."
+    ],
+    "Tomato___Early_blight": [
+      "Dark concentric spots form on older leaves.",
+      "Yellowing spreads from bottom leaves upward.",
+      "Causes defoliation and reduced fruit yield."
+    ],
+    "Tomato___healthy": [
+      "Leaves are green, smooth, and upright.",
+      "No signs of curling, mold, or pest damage.",
+      "Plant bears evenly ripened fruits."
+    ],
+    "Tomato___Late_blight": [
+      "Large irregular gray-green patches on leaves.",
+      "White mold on underside in humid conditions.",
+      "Fruits develop brown, firm rotted areas."
+    ],
+    "Tomato___Leaf_Mold": [
+      "Yellow spots on upper surface with olive mold beneath.",
+      "Leaves curl, dry, and fall off.",
+      "Common in humid, shaded environments."
+    ],
+    "Tomato___Septoria_leaf_spot": [
+      "Small circular spots with dark edges and pale centers.",
+      "Severe infection causes heavy defoliation.",
+      "Thrives under moist, warm conditions."
+    ],
+    "Tomato___Spider_mites_Two-spotted_spider_mite": [
+      "Tiny yellow specks and fine webbing on leaves.",
+      "Leaves bronze, curl, and dry out.",
+      "Worsens under hot, dry conditions."
+    ],
+    "Tomato___Target_Spot": [
+      "Circular brown lesions with concentric rings.",
+      "Leaves yellow and fall prematurely.",
+      "Spreads rapidly in humid weather."
+    ],
+    "Tomato___Tomato_mosaic_virus": [
+      "Mosaic light and dark green leaf pattern.",
+      "Leaves become distorted or narrow.",
+      "Fruits are small and unevenly ripened."
+    ],
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+      "Young leaves curl upward and turn yellow.",
+      "Growth becomes stunted with reduced yield.",
+      "Transmitted by whiteflies in warm regions."
+    ],
+    "Unknown___Unrecognized_leaf": [
+      "Leaf not identified in trained crop database.",
+      "Try uploading a clearer image or supported crop leaf."
+    ]
+  }
+  

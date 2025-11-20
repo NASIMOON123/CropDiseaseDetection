@@ -1,0 +1,198 @@
+{
+    "Apple___Apple_scab": [
+      "Remove and destroy fallen leaves and infected fruits.",
+      "Apply fungicides containing mancozeb or captan during spring.",
+      "Ensure proper pruning for better air circulation."
+    ],
+    "Apple___Black_rot": [
+      "Prune and burn infected twigs and mummified fruits.",
+      "Apply fungicides like copper oxychloride or thiophanate-methyl.",
+      "Avoid wounding fruit and trees; maintain orchard hygiene."
+    ],
+    "Apple___Cedar_apple_rust": [
+      "Remove nearby cedar trees if possible.",
+      "Use fungicides containing myclobutanil or propiconazole.",
+      "Select resistant apple varieties."
+    ],
+    "Apple___healthy": [
+      "Regular pruning and balanced fertilization.",
+      "Maintain good air circulation and remove debris.",
+      "Inspect trees weekly to detect early symptoms."
+    ],
+    "Blueberry___healthy": [
+      "Maintain soil pH between 4.5 and 5.5 for optimal growth.",
+      "Ensure good drainage and avoid overwatering.",
+      "Use mulch to retain moisture and control weeds."
+    ],
+    "Cherry_(including_sour)___healthy": [
+      "Prune regularly for good air movement.",
+      "Avoid overhead watering to prevent fungal issues.",
+      "Fertilize in early spring for vigorous growth."
+    ],
+    "Cherry_(including_sour)___Powdery_mildew": [
+      "Prune to improve air circulation.",
+      "Apply sulfur or neem oil fungicides early in the season.",
+      "Avoid excessive nitrogen fertilizer."
+    ],
+    "Corn_(maize)___Cercospora_leaf_spot": [
+      "Use resistant hybrids and crop rotation.",
+      "Avoid dense planting; ensure good airflow.",
+      "Apply fungicides such as azoxystrobin or propiconazole."
+    ],
+    "Corn_(maize)___Common_rust": [
+      "Plant resistant corn varieties.",
+      "Apply fungicide if infection exceeds 10% leaf area.",
+      "Avoid excessive irrigation and maintain spacing."
+    ],
+    "Corn_(maize)___Northern_Leaf_Blight": [
+      "Use disease-resistant varieties and crop rotation.",
+      "Avoid planting corn in the same field consecutively.",
+      "Apply fungicides like mancozeb when disease appears."
+    ],
+    "Corn_(maize)___healthy": [
+      "Use certified seeds and balanced fertilization.",
+      "Maintain field hygiene and proper irrigation.",
+      "Monitor regularly for early disease detection."
+    ],
+    "Grape___Black_rot": [
+      "Prune and destroy infected shoots and mummified fruits.",
+      "Spray with fungicides containing copper or captan.",
+      "Provide good airflow by training vines properly."
+    ],
+    "Grape___Esca_(Black_Measles)": [
+      "Avoid pruning during wet weather to reduce infection.",
+      "Remove infected wood and disinfect pruning tools.",
+      "Maintain vine health with balanced nutrients."
+    ],
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": [
+      "Apply fungicides such as mancozeb or copper oxychloride.",
+      "Prune lower leaves to improve ventilation.",
+      "Avoid overhead irrigation."
+    ],
+    "Grape___healthy": [
+      "Ensure proper pruning and sun exposure.",
+      "Avoid excessive watering and maintain soil drainage.",
+      "Apply preventive fungicide sprays as needed."
+    ],
+    "Orange___Haunglongbing_(Citrus_greening)": [
+      "Remove and destroy infected trees immediately.",
+      "Control psyllid insect vectors using insecticides.",
+      "Use certified disease-free seedlings for replanting."
+    ],
+    "Peach___Bacterial_spot": [
+      "Prune out infected twigs and remove fallen leaves.",
+      "Apply copper-based bactericides during early growth stages.",
+      "Avoid working with wet plants to reduce spread."
+    ],
+    "Peach___healthy": [
+      "Provide proper spacing and sunlight exposure.",
+      "Regularly prune and apply preventive sprays if needed.",
+      "Water plants at the base, avoiding wetting the leaves."
+    ],
+    "Pepper,_bell___Bacterial_spot": [
+      "Remove infected plants and debris.",
+      "Apply copper-based sprays to control bacterial spread.",
+      "Avoid overhead watering and handle plants gently."
+    ],
+    "Pepper,_bell___healthy": [
+      "Keep soil well-drained and nutrient-rich.",
+      "Inspect leaves regularly for pests or early symptoms.",
+      "Practice crop rotation and maintain hygiene."
+    ],
+    "Potato___Early_blight": [
+      "Remove infected leaves and practice crop rotation.",
+      "Apply fungicides like chlorothalonil or mancozeb.",
+      "Avoid overhead irrigation and water in the morning."
+    ],
+    "Potato___healthy": [
+      "Use certified disease-free seed tubers.",
+      "Maintain soil moisture evenly without waterlogging.",
+      "Apply balanced fertilizers rich in potassium."
+    ],
+    "Potato___Late_blight": [
+      "Remove and destroy infected plants immediately.",
+      "Apply systemic fungicides like metalaxyl or cymoxanil.",
+      "Avoid watering late in the day to reduce leaf wetness."
+    ],
+    "Raspberry___healthy": [
+      "Ensure good drainage and sunlight exposure.",
+      "Mulch to retain soil moisture and control weeds.",
+      "Prune regularly to remove old canes."
+    ],
+    "Soybean___healthy": [
+      "Rotate crops with non-leguminous plants.",
+      "Maintain balanced soil nutrients, especially nitrogen.",
+      "Inspect fields regularly for early disease detection."
+    ],
+    "Squash___Powdery_mildew": [
+      "Apply sulfur, neem oil, or potassium bicarbonate sprays.",
+      "Water at soil level to avoid leaf wetness.",
+      "Space plants well to ensure airflow."
+    ],
+    "Strawberry___healthy": [
+      "Avoid waterlogging and use drip irrigation.",
+      "Mulch to reduce soil splash and weed growth.",
+      "Use disease-free runners and remove old leaves."
+    ],
+    "Strawberry___Leaf_scorch": [
+      "Remove and destroy infected leaves after harvest.",
+      "Apply fungicides like captan or copper oxychloride.",
+      "Ensure proper spacing and avoid overhead watering."
+    ],
+    "Tomato___Bacterial_spot": [
+      "Remove infected plants and debris immediately.",
+      "Use copper-based bactericides to limit spread.",
+      "Avoid handling wet plants and provide spacing."
+    ],
+    "Tomato___Early_blight": [
+      "Apply fungicides such as mancozeb or chlorothalonil.",
+      "Rotate crops and remove old plant debris.",
+      "Water at soil level, not on leaves."
+    ],
+    "Tomato___healthy": [
+      "Maintain consistent watering and balanced nutrition.",
+      "Stake plants to improve air circulation.",
+      "Inspect weekly for early disease or pest signs."
+    ],
+    "Tomato___Late_blight": [
+      "Remove and destroy infected plants immediately.",
+      "Spray with fungicides containing copper or metalaxyl.",
+      "Avoid high humidity and overcrowding."
+    ],
+    "Tomato___Leaf_Mold": [
+      "Provide ventilation and reduce humidity in greenhouses.",
+      "Apply fungicides like chlorothalonil or mancozeb.",
+      "Avoid overhead watering and maintain spacing."
+    ],
+    "Tomato___Septoria_leaf_spot": [
+      "Remove infected lower leaves early in the season.",
+      "Apply fungicides containing copper or mancozeb.",
+      "Water at soil level to prevent leaf wetness."
+    ],
+    "Tomato___Spider_mites_Two-spotted_spider_mite": [
+      "Spray neem oil or insecticidal soap on affected plants.",
+      "Keep humidity high and wash leaves to remove mites.",
+      "Introduce natural predators like ladybugs if possible."
+    ],
+    "Tomato___Target_Spot": [
+      "Remove affected leaves and avoid overhead watering.",
+      "Apply fungicides such as azoxystrobin or mancozeb.",
+      "Ensure crop rotation and proper field drainage."
+    ],
+    "Tomato___Tomato_mosaic_virus": [
+      "Remove infected plants and disinfect tools.",
+      "Avoid tobacco handling near plants.",
+      "Use resistant tomato varieties and sanitize soil."
+    ],
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+      "Control whiteflies with insecticides or yellow traps.",
+      "Remove infected plants to prevent spread.",
+      "Use resistant or tolerant tomato varieties."
+    ],
+    "Unknown___Unrecognized_leaf": [
+      "Ensure the image is clear and taken in good lighting.",
+      "Upload leaves of supported crops (apple, tomato, potato, etc.).",
+      "Avoid blurry or background-dominated images."
+    ]
+  }
+  
